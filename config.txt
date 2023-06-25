@@ -1,1 +1,1 @@
-le fichier de configuration est bien lu
+contenu
