@@ -1525,3 +1525,7 @@ TimeLog;EntityName;UserName;info2;info3;info4;info5;info6;info7
 30-06-23 19:06:09;Ville de Liège;Plan Comptable 27 06 2023.xlsm - Excel;append_fichier;Data.append_file;;;;
 30-06-23 19:06:19;Ville de Liège;Plan Comptable 27 06 2023.xlsm - Excel;test;Github.test;;;;
 30-06-23 19:07:10;Ville de Liège;Plan Comptable 27 06 2023.xlsm - Excel;append_fichier;Data.append_file;;;;
+30-06-23 19:08:44;Ville de Liège;Plan Comptable 27 06 2023.xlsm - Excel;append_fichier;Data.append_file;;;;
+30-06-23 19:09:08;Ville de Liège;Plan Comptable 27 06 2023.xlsm - Excel;test;Github.test;;;;
+30-06-23 19:09:13;Ville de Liège;Plan Comptable 27 06 2023.xlsm - Excel;append_fichier;Data.append_file;;;;
+30-06-23 19:10:02;Ville de Liège;Plan Comptable 27 06 2023.xlsm - Excel;append_fichier;Data.append_file;;;;
