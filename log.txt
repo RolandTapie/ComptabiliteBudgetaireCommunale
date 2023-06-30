@@ -1669,3 +1669,11 @@ TimeLog;EntityName;UserName;info2;info3;info4;info5;info6;info7
 01-07-23 00:30:13;Ville de Liège;Plan Comptable 30 06 2023.xlsm - Excel;append_fichier;Data.append_file;;;;
 01-07-23 00:31:27;Ville de Liège;Plan Comptable 30 06 2023.xlsm - Excel;append_fichier;Data.append_file;;;;
 01-07-23 00:31:39;Ville de Liège;Plan Comptable 30 06 2023.xlsm - Excel;append_fichier;Data.append_file;;;;
+01-07-23 00:31:42;Ville de Liège;Plan Comptable 30 06 2023.xlsm - Excel;append_fichier;Data.append_file;;;;
+01-07-23 00:32:18;Succès de l'identication de l'user :master;;;;;;;
+01-07-23 00:32:19;Ville de Liège;Plan Comptable 30 06 2023.xlsm - Excel;Initialisation du formulaire Prinicipale;Userform1.UserForm_Initialize;;;;
+01-07-23 00:33:38;Echec de l'identication de l'user :Faux;;;;;;;
+01-07-23 00:33:38;Ville de Liège;Plan Comptable 30 06 2023.xlsm - Excel;Initialisation du formulaire Prinicipale;Userform1.UserForm_Initialize;;;;
+01-07-23 00:33:41;Ville de Liège;Plan Comptable 30 06 2023.xlsm - Excel;append_fichier;Data.append_file;;;;
+01-07-23 00:33:52;Ville de Liège;Plan Comptable 30 06 2023.xlsm - Excel;append_fichier;Data.append_file;;;;
+01-07-23 00:34:03;Ville de Liège;Plan Comptable 30 06 2023.xlsm - Excel;append_fichier;Data.append_file;;;;
