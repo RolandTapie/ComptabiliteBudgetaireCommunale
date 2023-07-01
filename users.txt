@@ -1,1 +1,1 @@
-talla:test|roland:prod|1:2|ges:fin
+roland:test|talla:prod
