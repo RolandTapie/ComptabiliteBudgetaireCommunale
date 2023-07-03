@@ -8,5 +8,5 @@ Attribute VB_Creatable = False
 Attribute VB_PredeclaredId = False
 Attribute VB_Exposed = False
 Sub verifImport()
-MsgBox "Import V1 OK"
+MsgBox "Import V2 OK"
 End Sub
